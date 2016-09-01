@@ -1,0 +1,18 @@
+{
+  "name": "react-native-button",
+  "version": "1.0.0",
+  "description": "Button for react-native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkhungit/react-native-button.git"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkhungit/react-native-button/issues"
+  },
+  "homepage": "https://github.com/hkhungit/react-native-button#readme",
+  "readme": "ERROR: No README data found!"
+}
